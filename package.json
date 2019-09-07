@@ -16,12 +16,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shikhir-arora/karma-simple-mod.git"
+    "url": "git+https://github.com/hieudn1995/karma-simple-mod.git"
   },
   "bugs": {
-    "url": "https://github.com/shikhir-arora/karma-simple-mod/issues"
+    "url": "https://github.com/hieudn1995/karma-simple-mod/issues"
   },
-  "homepage": "https://github.com/shikhir-arora/karma-simple-mod",
+  "homepage": "https://github.com/hieudn1995/karma-simple-mod",
   "engines": {
     "node": ">=8.0.0"
   },
