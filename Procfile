@@ -1,1 +1,1 @@
-Worker: node karmamod.js
+worker: node karmamod.js
